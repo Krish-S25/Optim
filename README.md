@@ -1,6 +1,6 @@
 # Optim: Empirical Performance Judgment Engine
 
-Optim is a full-stack algorithm performance and complexity analysis engine. It empirically measures the physical execution time of Java code and mathematically derives its Big-O time complexity using non-linear least squares regression.
+Optim is a full-stack algorithm performance and complexity analysis engine.
 
 ## Features
 
